@@ -1,0 +1,6 @@
+name: Poncho
+description: Agrega funcionalidades al theme Poncho Drupal.
+package: Custom
+type: module
+core: 8.x
+

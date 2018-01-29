@@ -1,0 +1,9 @@
+jumbotron:
+  css:
+    base:
+      assets/css/jumbotron_title.css: {}
+  js:
+       assets/js/jumbotron_title.js: {}
+  dependencies:
+    - core/jquery
+
